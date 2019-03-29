@@ -1,0 +1,19 @@
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\BCA Sandbox.exe
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\BCA Sandbox.pdb
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmBalanceInformation.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.Main.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.Properties.Resources.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA Sandbox.csproj.GenerateResource.Cache
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA Sandbox.exe
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA Sandbox.pdb
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmRequestToken.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA Sandbox.csprojResolveAssemblyReference.cache
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\BCA Sandbox.exe.config
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmAccountStatement.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmTransfer.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmTransferDomestic.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\Newtonsoft.Json.dll
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\Newtonsoft.Json.pdb
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\bin\Debug\Newtonsoft.Json.xml
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmForeignExchangeRate.resources
+D:\ferry.hartono\Visual Studio 2010\BCA Sandbox\BCA Sandbox\obj\x86\Debug\BCA_Sandbox.frmNearestBranchLocation.resources
